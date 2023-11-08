@@ -1,0 +1,11 @@
+/*The stylesheet contains the styling of the website*/
+/*Without it the website would look like a 1999 website with nothing at all*/
+
+/*CSS use selectors to know what to formate*/
+/*This selector changes the styling of the "root" of the website
+(exemple: global font, global font size, global font color, website background, etc)*/
+html {
+  background-color: pink;
+  /*This is Comic Sans, I guess*/
+  font-family: "Comic Neue", sans-serif;
+}
